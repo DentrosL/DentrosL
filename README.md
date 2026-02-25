@@ -1,11 +1,11 @@
 # Welcome to my GitHub profile 
 
 <!--
-![DetrosL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DetrosL&show_icons=true&show=prs_merged_percentage&hide=issues,prs&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DetrosL&layout=compact&show=icons=true&theme=transparent)
+![DetrosL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DentrosL&show_icons=true&show=prs_merged_percentage&hide=issues,prs&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DentrosL&layout=compact&show_icons=true&theme=transparent)
 -->
-<!--<img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe">-->
 
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe">-->
 <!-- ## -->
 
 ### 💻 Technologies
