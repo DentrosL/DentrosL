@@ -1,12 +1,20 @@
 # Welcome to my GitHub profile 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Laiz+Detros)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=22&center=true&vCenter=true&width=1000&lines=Systems+Developer;Finance+Enthusiast)](https://git.io/typing-svg)
+
+### 📈 About me
+- 20 years old, passionate about technology, problem-solving, and continuous growth.<br>
+- I build systems, work with databases, and enjoy turning complex problems into structured solutions.<br>
+- When I'm not coding, I'm studying finance and the stock market — analyzing companies and market behavior.<br>
+- Tech and finance are the two areas that challenge and motivate me the most.
+
 <!--
 ![DetrosL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DentrosL&show_icons=true&show=prs_merged_percentage&hide=issues,prs&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DentrosL&layout=compact&show_icons=true&theme=transparent)
 -->
 
-<!--<img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe">-->
-<!-- ## -->
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe"> -->
+##
 
 ### :bar_chart: GitHub Stats
 
