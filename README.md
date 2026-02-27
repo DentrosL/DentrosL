@@ -15,7 +15,7 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true">    
       <img  alt="DentrosL's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dentrosl?cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true" />  
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sabbajohn&theme=tokyonight&exclude_days=Sun%2CSat&ring=3FEB48" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="DentrosL" alt="GitHub Streak" /></a>
 </div>
 
 ### 💻 Technologies
