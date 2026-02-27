@@ -11,11 +11,10 @@
 ### :bar_chart: GitHub Stats
 
 <div>
-  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true">    
       <img  alt="DentrosL's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dentrosl?cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true" />  
   </a>
-  <a href="https://git.io/streak-stats"><img src="dentrosl" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="sabbajohn" alt="GitHub Streak" /></a>
 </div>
 
 ### 💻 Technologies
