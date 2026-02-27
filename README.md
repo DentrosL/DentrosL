@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Laiz+Detros)](https://git.io/typing-svg)
 <!--
 ![DetrosL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DentrosL&show_icons=true&show=prs_merged_percentage&hide=issues,prs&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DentrosL&layout=compact&show_icons=true&theme=transparent)
@@ -7,6 +7,16 @@
 
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe">-->
 <!-- ## -->
+
+## :bar_chart: GitHub Stats
+
+<div>
+  
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true">    
+      <img  alt="DentrosL's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dentrosl?cardType=level-alternate&theme=tokyonight&fontFamily=Acme&preferLogin=true" />  
+  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sabbajohn&theme=tokyonight&exclude_days=Sun%2CSat&ring=3FEB48" alt="GitHub Streak" /></a>
+</div>
 
 ### 💻 Technologies
 
@@ -24,7 +34,7 @@
 ### ⚙️ Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vs%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-EA4335?style=for-the-badge&logo=npm&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-EA4335?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2578FF?style=for-the-badge&logo=docker&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
@@ -38,10 +48,11 @@
 
 ##
 
-### 📞 Contacts
-
+### 📞 How to reach me
+<!--
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-detros-93b95b236/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laizdetros/)
+-->
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laizbdetros@gmail.com)
 
 ### Languages
@@ -49,3 +60,5 @@
 ![Portuguese Native](https://img.shields.io/badge/Portuguese-Native-brightgreen)
 ![English Intermediary](https://img.shields.io/badge/English-Intermediary-blue)
 ![Italian Basic](https://img.shields.io/badge/Italian-Basic-yellow)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C12FC&height=120&section=footer"/>
