@@ -1,5 +1,9 @@
-# Welcome to my GitHub profile 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Laiz+Detros)](https://git.io/typing-svg)
+# Welcome to my GitHub profile
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Laiz+Detros&repeat=false&pause=999999" alt="Hi, my name is Laiz Detros" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=28&center=true&vCenter=true&width=1000&lines=Systems+Developer;Backend-Focused+Developer;PHP+%7C+Laravel+%7C+PostgreSQL;Finance+Enthusiast)](https://git.io/typing-svg)
 
 
