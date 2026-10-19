@@ -96,14 +96,6 @@ My personal portfolio, built to showcase my professional background, technical s
 - 🇺🇸 ![English Intermediary](https://img.shields.io/badge/English-Intermediate-blue)
 - 🇮🇹 ![Italian Basic](https://img.shields.io/badge/Italian-Basic-yellow)
 
-## Get in Touch
-
-- [![Portfolio](https://img.shields.io/badge/Portfolio-8C12FC?style=flat&logo=astro&logoColor=white)](https://dentrosl.github.io/Dentros/) [dentrosl.github.io/Dentros](https://dentrosl.github.io/Dentros/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-detros/) [linkedin.com/in/laiz-detros](https://www.linkedin.com/in/laiz-detros/)
-- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:laizbdetros@gmail.com) [laizbdetros@gmail.com](mailto:laizbdetros@gmail.com)
-
----
-
 <p align="center">
   <i>Always learning, building, and improving.</i>
 </p>
