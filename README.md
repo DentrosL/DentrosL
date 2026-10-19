@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Laiz+Detros)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=28&center=true&vCenter=true&width=1000&lines=Systems+Developer;Backend-Focused+Developer;PHP+%7C+Laravel+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=28&center=true&vCenter=true&width=1000&lines=Systems+Developer;Backend-Focused+Developer;PHP+%7C+Laravel+%7C+PostgreSQL;Finance+Enthusiast)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://dentrosl.github.io/Dentros/">
@@ -68,6 +69,7 @@ My personal portfolio, built to showcase my professional background, technical s
 
 ### Other Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -96,9 +98,9 @@ My personal portfolio, built to showcase my professional background, technical s
 
 ## Get in Touch
 
-- **Portfolio:** [dentrosl.github.io/Dentros](https://dentrosl.github.io/Dentros/)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-detros-93b95b236/) [linkedin.com/in/laiz-detros](https://www.linkedin.com/in/laiz-detros/)
-- [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laizbdetros@gmail.com) [laizbdetros@gmail.com](mailto:laizbdetros@gmail.com)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-8C12FC?style=flat&logo=astro&logoColor=white)](https://dentrosl.github.io/Dentros/) [dentrosl.github.io/Dentros](https://dentrosl.github.io/Dentros/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-detros/) [linkedin.com/in/laiz-detros](https://www.linkedin.com/in/laiz-detros/)
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:laizbdetros@gmail.com) [laizbdetros@gmail.com](mailto:laizbdetros@gmail.com)
 
 ---
 
