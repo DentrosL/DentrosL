@@ -33,17 +33,7 @@ Outside software development, I'm interested in finance and financial markets.
 
 ### [Dentros - Personal Portfolio](https://dentrosl.github.io/Dentros/)
 
-My personal portfolio, built to showcase my professional background, technical skills, and projects.
-
-**Technologies:**
-- Astro
-- TypeScript
-- Tailwind CSS
-- GitHub Actions
-- GitHub Pages
-
-🌐 [Visit the portfolio](https://dentrosl.github.io/Dentros/)  
-💻 [Explore the source code](https://github.com/DentrosL/Dentros)
+🌐 [Visit the portfolio](https://dentrosl.github.io/Dentros/) | 💻 [Explore the source code](https://github.com/DentrosL/Dentros)
 
 ## Technologies & Tools
 
