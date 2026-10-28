@@ -29,12 +29,6 @@ I'm currently pursuing a degree in Software Engineering and continuously develop
 
 Outside software development, I'm interested in finance and financial markets.
 
-## Featured Project
-
-### [Dentros - Personal Portfolio](https://dentrosl.github.io/Dentros/)
-
-🌐 [Visit the portfolio](https://dentrosl.github.io/Dentros/) | 💻 [Explore the source code](https://github.com/DentrosL/Dentros)
-
 ## Technologies & Tools
 
 ### Backend
@@ -68,6 +62,38 @@ Outside software development, I'm interested in finance and financial markets.
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Featured Project
+
+### [Dentros — Personal Portfolio](https://dentrosl.github.io/Dentros/)
+
+<p align="center">
+  <a href="https://dentrosl.github.io/Dentros/">
+    <img
+      src="./assets/portfolio-preview.png"
+      alt="Preview of my personal portfolio website"
+      width="100%"
+    />
+  </a>
+</p>
+
+A personal portfolio showcasing my background, skills, and projects,
+built with a focus on clean design and a developer-oriented visual identity.
+
+<p align="center">
+  <a href="https://dentrosl.github.io/Dentros/">
+    <img
+      src="https://img.shields.io/badge/Visit_Portfolio-8C12FC?style=for-the-badge&logo=astro&logoColor=white"
+      alt="Visit Portfolio"
+    />
+  </a>
+  <a href="https://github.com/DentrosL/Dentros">
+    <img
+      src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore Source Code"
+    />
+  </a>
+</p>
 
 ## GitHub Stats
 
