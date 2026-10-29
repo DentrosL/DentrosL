@@ -112,9 +112,11 @@ built with a focus on clean design and a developer-oriented visual identity.
 
 ## Languages
 
-- 🇧🇷 ![Portuguese Native](https://img.shields.io/badge/Portuguese-Native-brightgreen)
-- 🇺🇸 ![English Intermediary](https://img.shields.io/badge/English-Intermediate-blue)
-- 🇮🇹 ![Italian Basic](https://img.shields.io/badge/Italian-Basic-yellow)
+<p align="center">
+  <img src="https://img.shields.io/badge/Portuguese-Native-brightgreen" alt="Portuguese Native" />
+  <img src="https://img.shields.io/badge/English-Intermediate-blue" alt="English Intermediate" />
+  <img src="https://img.shields.io/badge/Italian-Basic-yellow" alt="Italian Basic" />
+</p>
 
 <p align="center">
   <i>Always learning, building, and improving.</i>
